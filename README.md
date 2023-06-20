@@ -6,6 +6,11 @@ A note taking app using express
 
 Live URL: https://radiant-beyond-76665-ebe8b3d12b2c.herokuapp.com/
 
+Screenshots of deployed app:
+
+![live](assets/images/Splash.jpg)
+![notes](assets/images/Note%20screen.jpg)
+
 ## Contents
 
 -[Description](#Description)  
